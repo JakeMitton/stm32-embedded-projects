@@ -1,5 +1,5 @@
 # Embedded Programming: Week 2 - More Bare Metal
-###  This week I'm going to write an interrupt handler and switch the blinky_from_scratch and button projects to use interupt based timing for the delay function. 
+###  This week I'm going to write an interrupt handler and switch the blinky_from_scratch and button projects to use interrupt based timing for the delay function. 
 
 ## Terminology
 
